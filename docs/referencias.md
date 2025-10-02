@@ -129,4 +129,4 @@
 
 ---
 
-*Última atualização: Outubro 2025*
+*Última atualização: Outubro 2024*
