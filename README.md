@@ -163,3 +163,22 @@ Integração com banco de dados
 Dashboard web para visualização
 Conectividade WiFi/Bluetooth
 Sensores físicos reais
+
+## 📚 Fundamentação Teórica
+
+Este projeto foi desenvolvido com base em **pesquisa acadêmica sólida** e **melhores práticas** da indústria.
+
+### 🎓 **Base Científica:**
+- **10 artigos acadêmicos** revisados por pares
+- **Padrões IEEE** para IoT Industrial
+- **Metodologias comprovadas** de detecção de anomalias
+- **Arquiteturas validadas** para ESP32
+
+### 📖 **Referências Completas:**
+👉 **[Ver todas as referências bibliográficas](docs/referencias.md)**
+
+### 🏆 **Rigor Acadêmico:**
+- Bases de dados: IEEE Xplore, ScienceDirect, SpringerLink
+- Período: 2014-2023
+- Critério: Revisão por pares
+- Padrão: Citações IEEE
