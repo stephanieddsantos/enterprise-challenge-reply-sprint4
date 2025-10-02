@@ -92,14 +92,14 @@ GitHub
 
 ## 📸 Evidências do Sistema
 
-### 🎮 **Simulação no Wokwi:**
-![Sistema Funcionando](evidencias/sistema_funcionando_completo.png)
+### 🎮 **Circuito Funcionando no Wokwi:**
+![Circuito ESP32](evidencias/wokwi_circuito_funcionando.png)
 
-### 📊 **Dados em Tempo Real:**
-![Coleta de Dados](evidencias/dados_tempo_real_alertas.png)
+### 📊 **Monitor Serial - Dados em Tempo Real:**
+![Dados Coletados](evidencias/monitor_serial_dados.png)
 
-### 💻 **Código-fonte:**
-![Implementação](evidencias/codigo_fonte_wokwi.png)
+### 🚨 **Sistema de Alertas Detectados:**
+![Alertas Funcionando](evidencias/sistema_com_alertas.png)
 
 ---
 
