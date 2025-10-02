@@ -32,71 +32,16 @@ Esta é minha contribuição para o Enterprise Challenge Reply Sprint 4. Impleme
 
 ---
 
-## 📊 **Resultados Alcançados**
+## �� **Resultados Alcançados**
 
 ### **Métricas de Performance:**
-|
- Métrica 
-|
- Valor Obtido 
-|
- Meta 
-|
- Status 
-|
-|
----------
-|
---------------
-|
-------
-|
---------
-|
-|
-**
-Taxa de Coleta
-**
-|
- 2Hz (0.5s/leitura) 
-|
- >1Hz 
-|
- ✅ 
-|
-|
-**
-Qualidade de Dados
-**
-|
- 94.7% válidos 
-|
- >90% 
-|
- ✅ 
-|
-|
-**
-Uptime do Sistema
-**
-|
- 99.8% 
-|
- >99% 
-|
- ✅ 
-|
-|
-**
-Precisão dos Sensores
-**
-|
- ±0.5°C, ±2% 
-|
- Spec 
-|
- ✅ 
-|
+
+| Métrica | Valor Obtido | Meta | Status |
+|---------|--------------|------|--------|
+| **Taxa de Coleta** | 2Hz (0.5s/leitura) | >1Hz | ✅ |
+| **Qualidade de Dados** | 94.7% válidos | >90% | ✅ |
+| **Uptime do Sistema** | 99.8% | >99% | ✅ |
+| **Precisão dos Sensores** | ±0.5°C, ±2% | Spec | ✅ |
 
 ### **Dados Coletados em Teste:**
 - **📈 3.847 leituras** válidas em 2 horas de operação
@@ -107,7 +52,7 @@ Precisão dos Sensores
 
 ---
 
-## 🚀 **Como Executar Minha Parte**
+## �� **Como Executar Minha Parte**
 
 ### **Pré-requisitos:**
 ```bash
@@ -116,6 +61,7 @@ pip install pandas matplotlib seaborn pyserial numpy
 
 # PlatformIO (para ESP32)
 pip install platformio
+
 1. 🔧 Configurar Hardware (ESP32)
 bash
 Copiar
@@ -144,7 +90,7 @@ coleta_dados/                          # 🔧 Minha Parte Completa
 │   ├── advanced_collector.py          # Coleta avançada
 │   ├── data_analyzer.py              # Análise estatística
 │   └── requirements.txt              # Dependências
-├── outputs/                          # 📊 Resultados e Evidências
+├── outputs/                          # �� Resultados e Evidências
 │   ├── serial_monitor_logs.txt       # Logs do ESP32
 │   ├── sensor_dashboard.png          # Gráfico principal
 │   ├── quality_analysis.png          # Análise de qualidade
@@ -207,7 +153,7 @@ ESP32 Technical Reference Manual - Espressif Systems (2023)
 Industrial IoT Data Quality Standards - ISO/IEC 25012:2008
 DHT22 Datasheet - Aosong Electronics
 MQTT Protocol Specification v5.0 - OASIS (2019)
-📄 Sobre Este Projeto
+�� Sobre Este Projeto
 Projeto: Enterprise Challenge Reply 2024 - Sprint 4
 Parte: 2 - Coleta e Ingestão de Dados
 Desenvolvido por: Stephanie Dias
@@ -222,4 +168,4 @@ Data: Outubro 2024
  Sistema de alertas funcionando
  Gráficos e evidências gerados
  Documentação técnica completa
- Vídeo de demonstração
+ Vídeo de demonstração (em produção)
